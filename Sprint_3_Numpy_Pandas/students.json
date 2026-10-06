@@ -1,0 +1,30 @@
+[
+    {
+        "ID":1,
+        "Name":"Arjun",
+        "Age":23,
+        "Department":"Civil",
+        "Marks":80
+    },
+    {
+        "ID":2,
+        "Name":"Rogan",
+        "Age":20,
+        "Department":"Mechanical",
+        "Marks":90
+    },
+    {
+        "ID":3,
+        "Name":"Prakesh",
+        "Age":24,
+        "Department":"Computer",
+        "Marks":78
+    },
+    {
+        "ID":4,
+        "Name":"Magesh",
+        "Age":22,
+        "Department":"Electronic",
+        "Marks":89
+    }
+]
